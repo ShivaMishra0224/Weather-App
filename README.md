@@ -4,7 +4,7 @@
 
 # Step-1 : Copy code
 
-git clone 
+git clone :  https://github.com/ShivaMishra0224/Weather-App.git
 
 # Step-2 :
 
